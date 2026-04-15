@@ -1,1 +1,21 @@
+# Временные файлы
+*.tmp
+*.temp
+*.log
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
+
+# Редакторы
+.vscode/
+.idea/
+*.swp
+
+# Резервные копии
+*.bak
+*.backup
+
+# Экспорты draw.io (локальные)
+*.tmp.drawio
 
